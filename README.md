@@ -1,1 +1,1 @@
-# NumberDetectionNN
+# CatDogDetectionNN
